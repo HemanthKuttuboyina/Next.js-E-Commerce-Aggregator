@@ -18,11 +18,8 @@ Make sure you have the following installed on your machine:
 ### Cloning the Repository
 
 First, clone the repository to your local machine:
-
-```bash
-git clone https://github.com/adrianhajdin/pricewise.git
-cd pricewise
 ```
+
 
 ### Installation
 
