@@ -1,5 +1,4 @@
 # Next.js-E-Commerce-Aggregator
-Sure! Here's the entire `README.md` file in one block of code:
 
 ```markdown
 # Pricewise Project
@@ -67,8 +66,3 @@ npm run dev
 Once the project is running, open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
 ---
-
-Feel free to reach out if you need any help setting up the project!
-```
-
-You can copy this directly into your `README.md` file for your project. Let me know if you need any further modifications!
