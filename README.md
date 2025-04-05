@@ -63,19 +63,18 @@ npm run dev
 Once the project is running, open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
 ---
-
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
   <div style="padding: 5px;">
-    <img src="images/img1.png" alt="Image 1" style="width: 30%; height: auto;" />
+    <img src="images/img1.png" alt="Image 1" style="width: 100%; height: auto;" />
   </div>
   <div style="padding: 5px;">
-    <img src="images/img2.png" alt="Image 2" style="width:30%; height: auto;" />
+    <img src="images/img2.png" alt="Image 2" style="width: 100%; height: auto;" />
   </div>
   <div style="padding: 5px;">
-    <img src="images/img3.png" alt="Image 3" style="width: 30%; height: auto;" />
+    <img src="images/img3.png" alt="Image 3" style="width: 100%; height: auto;" />
   </div>
   <div style="padding: 5px;">
-    <img src="images/img4.png" alt="Image 4" style="width: 30%; height: auto;" />
+    <img src="images/img4.png" alt="Image 4" style="width: 100%; height: auto;" />
   </div>
 </div>
 
