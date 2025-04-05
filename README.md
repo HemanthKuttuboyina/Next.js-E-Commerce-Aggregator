@@ -63,21 +63,21 @@ npm run dev
 Once the project is running, open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
 ---
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
   <!-- First Row -->
-  <div style="padding: 5px;">
-    <img src="images/img1.png" alt="Image 1" style="width: 50%; height: auto; display: block; margin: 0 auto;" />
+  <div style="padding: 5px; display: flex; justify-content: center;">
+    <img src="images/img1.png" alt="Image 1" style="width: 40%; height: auto;" />
   </div>
-  <div style="padding: 5px;">
-    <img src="images/img2.png" alt="Image 2" style="width: 50%; height: auto; display: block; margin: 0 auto;" />
+  <div style="padding: 5px; display: flex; justify-content: center;">
+    <img src="images/img2.png" alt="Image 2" style="width: 40%; height: auto;" />
   </div>
 
   <!-- Second Row -->
-  <div style="padding: 5px;">
-    <img src="images/img3.png" alt="Image 3" style="width: 50%; height: auto; display: block; margin: 0 auto;" />
+  <div style="padding: 5px; display: flex; justify-content: center;">
+    <img src="images/img3.png" alt="Image 3" style="width: 40%; height: auto;" />
   </div>
-  <div style="padding: 5px;">
-    <img src="images/img4.png" alt="Image 4" style="width: 50%; height: auto; display: block; margin: 0 auto;" />
+  <div style="padding: 5px; display: flex; justify-content: center;">
+    <img src="images/img4.png" alt="Image 4" style="width: 40%; height: auto;" />
   </div>
 </div>
 
